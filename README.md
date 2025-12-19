@@ -7,7 +7,7 @@
 | **M. Febri Ardiansyah** | G1A022049 | Model Architecture & Tuning |
 | **Baim Mudrik Aziz** | G1A022071 | Data Preprocessing & Analysis |
 | **Mezi** | G1A022077 | Deployment & Documentation |
-**Link Demo :** *(Klik gambar di atas atau [tautan ini](https://www.youtube.com/watch?v=HVFrblpUYUc) untuk menonton)*
+**Link Demo :** *(Klik gambar di atas atau [tautan ini](https://youtu.be/IUVmgL9oYG4) untuk menonton)*
 
 **Dosen Pengampu:** 👨‍🏫 **Ir. Arie Vatresia, S.T., M.T.I., P.hD., IPP.**
 
@@ -29,9 +29,9 @@
 ## 📺 Demo & Presentasi
 Saksikan penjelasan lengkap mengenai metodologi, arsitektur model, dan demo simulasi real-time pada video berikut:
 
-[![Youtube Video](https://github.com/FebriArdiansyah27/Deteksi-Anomali-Data-Sensor-IoT-pada-dataset-MetroP3-Air-Compressor-dengan-metode-hybrid-CNN-LSTM/blob/main/images/thumbnail.jpg)](https://www.youtube.com/watch?v=HVFrblpUYUc)
+[![Youtube Video](https://github.com/FebriArdiansyah27/Deteksi-Anomali-Data-Sensor-IoT-pada-dataset-MetroP3-Air-Compressor-dengan-metode-hybrid-CNN-LSTM/blob/main/images/thumbnail.jpg)](https://youtu.be/IUVmgL9oYG4)
 
-*(Klik gambar di atas atau [tautan ini](https://www.youtube.com/watch?v=HVFrblpUYUc) untuk menonton)*
+*(Klik gambar di atas atau [tautan ini](https://youtu.be/IUVmgL9oYG4) untuk menonton)*
 
 ---
 
