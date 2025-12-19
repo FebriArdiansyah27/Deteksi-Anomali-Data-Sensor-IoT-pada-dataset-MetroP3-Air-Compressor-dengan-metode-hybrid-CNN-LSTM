@@ -16,9 +16,9 @@ Deteksi Anomali Data Sensor IoT Industri pada dataset MetroP3(Air Compressor) de
 ## 📺 Demo & Presentasi
 Saksikan penjelasan lengkap mengenai metodologi, arsitektur model, dan demo simulasi real-time pada video berikut:
 
-[![Youtube Video](https://img.youtube.com/vi/VIDEO_ID_HERE/0.jpg)](MASUKKAN_LINK_YOUTUBE_DISINI)
+[![Youtube Video](https://img.youtube.com/vi/v=HVFrblpUYUc/0.jpg)](https://www.youtube.com/watch?v=HVFrblpUYUc)
 
-*(Klik gambar di atas atau [tautan ini](MASUKKAN_LINK_YOUTUBE_DISINI) untuk menonton)*
+*(Klik gambar di atas atau [tautan ini](https://www.youtube.com/watch?v=HVFrblpUYUc) untuk menonton)*
 
 ---
 
