@@ -13,15 +13,6 @@ Deteksi Anomali Data Sensor IoT Industri pada dataset MetroP3(Air Compressor) de
 
 ---
 
-## 📺 Demo & Presentasi
-Saksikan penjelasan lengkap mengenai metodologi, arsitektur model, dan demo simulasi real-time pada video berikut:
-
-[![Youtube Video](https://github.com/FebriArdiansyah27/Deteksi-Anomali-Data-Sensor-IoT-pada-dataset-MetroP3-Air-Compressor-dengan-metode-hybrid-CNN-LSTM/blob/main/images/thumbnail.jpg)](https://www.youtube.com/watch?v=HVFrblpUYUc)
-
-*(Klik gambar di atas atau [tautan ini](https://www.youtube.com/watch?v=HVFrblpUYUc) untuk menonton)*
-
----
-
 ## 👥 Tim Pengembang
 | Nama | NPM | Peran |
 | :--- | :--- | :--- |
@@ -32,6 +23,17 @@ Saksikan penjelasan lengkap mengenai metodologi, arsitektur model, dan demo simu
 **Dosen Pengampu:** 👨‍🏫 **Ir. Arie Vatresia, S.T., M.T.I., P.hD., IPP.**
 
 ---
+
+## 📺 Demo & Presentasi
+Saksikan penjelasan lengkap mengenai metodologi, arsitektur model, dan demo simulasi real-time pada video berikut:
+
+[![Youtube Video](https://github.com/FebriArdiansyah27/Deteksi-Anomali-Data-Sensor-IoT-pada-dataset-MetroP3-Air-Compressor-dengan-metode-hybrid-CNN-LSTM/blob/main/images/thumbnail.jpg)](https://www.youtube.com/watch?v=HVFrblpUYUc)
+
+*(Klik gambar di atas atau [tautan ini](https://www.youtube.com/watch?v=HVFrblpUYUc) untuk menonton)*
+
+---
+
+
 
 ## 📖 Ringkasan Proyek
 Proyek ini bertujuan untuk membangun sistem **Predictive Maintenance** pada komponen kompresor udara (*Air Compressor*) kereta Metro. Kami menggunakan pendekatan **Deep Learning Hybrid** yang menggabungkan:
