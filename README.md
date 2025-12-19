@@ -50,9 +50,10 @@ Model ini dirancang untuk mendeteksi kegagalan seperti **Kebocoran Udara (Air Le
 ---
 
 ## 📊 Dataset
-Kami menggunakan **MetroPT-3 Dataset** dari UCI Machine Learning Repository.
-* **Sumber:** Data sensor nyata dari unit kompresor kereta metro di Porto, Portugal.
-* **Fitur Input:** `TP3` (Pressure), `H1` (Humidity), `DV_pressure`, `Reservoirs`, `Motor_current`.
+Kami menggunakan **MetroPT-3 Dataset** dari UCI Machine Learning Repository. Dataset ini berisi data sensor analog dari unit kompresor kereta api (Air Production Unit) yang dikumpulkan selama tahun 2020.
+
+* 📥 **Link Dataset:** [UCI Machine Learning Repository - MetroPT-3 Dataset](https://archive.ics.uci.edu/dataset/791/metropt+3+dataset)
+* **Fitur Input (Training):** `TP3` (Pressure), `H1` (Humidity), `DV_pressure`, `Reservoirs`, `Motor_current`.
 * **Target:** Binary Classification (0: Normal, 1: Anomali).
 
 ---
