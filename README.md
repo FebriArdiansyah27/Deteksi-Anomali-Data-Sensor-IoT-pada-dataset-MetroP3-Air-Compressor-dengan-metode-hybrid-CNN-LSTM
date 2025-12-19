@@ -1,6 +1,16 @@
 # Deteksi-Anomali-Data-Sensor-IoT-pada-dataset-MetroP3-Air-Compressor-dengan-metode-hybrid-CNN-LSTM
 Deteksi Anomali Data Sensor IoT Industri pada dataset MetroP3(Air Compressor) dengan metode hybrid CNN LSTM
 
+## 👥 Tim Pengembang
+| Nama | NPM | Peran |
+| :--- | :--- | :--- |
+| **M. Febri Ardiansyah** | G1A022049 | Model Architecture & Tuning |
+| **Baim Mudrik Aziz** | G1A022071 | Data Preprocessing & Analysis |
+| **Mezi** | G1A022077 | Deployment & Documentation |
+
+**Dosen Pengampu:** 👨‍🏫 **Ir. Arie Vatresia, S.T., M.T.I., P.hD., IPP.**
+
+---
 
 # 🚂 IoT Anomaly Detection on MetroPT-3 Dataset
 ### Pengembangan Sistem Deteksi Anomali pada Data Sensor IoT Industri Menggunakan Arsitektur Hybrid CNN-LSTM
@@ -13,16 +23,7 @@ Deteksi Anomali Data Sensor IoT Industri pada dataset MetroP3(Air Compressor) de
 
 ---
 
-## 👥 Tim Pengembang
-| Nama | NPM | Peran |
-| :--- | :--- | :--- |
-| **M. Febri Ardiansyah** | G1A022049 | Model Architecture & Tuning |
-| **Baim Mudrik Aziz** | G1A022071 | Data Preprocessing & Analysis |
-| **Mezi** | G1A022077 | Deployment & Documentation |
 
-**Dosen Pengampu:** 👨‍🏫 **Ir. Arie Vatresia, S.T., M.T.I., P.hD., IPP.**
-
----
 
 ## 📺 Demo & Presentasi
 Saksikan penjelasan lengkap mengenai metodologi, arsitektur model, dan demo simulasi real-time pada video berikut:
