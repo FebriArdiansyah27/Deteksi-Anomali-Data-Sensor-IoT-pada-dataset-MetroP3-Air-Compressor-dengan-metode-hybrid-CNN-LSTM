@@ -7,7 +7,7 @@
 | **M. Febri Ardiansyah** | G1A022049 | Model Architecture & Tuning |
 | **Baim Mudrik Aziz** | G1A022071 | Data Preprocessing & Analysis |
 | **Mezi** | G1A022077 | Deployment & Documentation |
-**Link Demo :** *(Klik gambar di atas atau [tautan ini](https://youtu.be/IUVmgL9oYG4) untuk menonton)*
+**Link Demo :** *(klik tautan ini [https://youtu.be/IUVmgL9oYG4](https://youtu.be/IUVmgL9oYG4) untuk menonton)*
 
 **Dosen Pengampu:** 👨‍🏫 **Ir. Arie Vatresia, S.T., M.T.I., P.hD., IPP.**
 
