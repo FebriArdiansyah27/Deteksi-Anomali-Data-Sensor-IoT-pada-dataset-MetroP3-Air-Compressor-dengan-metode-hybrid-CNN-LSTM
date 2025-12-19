@@ -87,3 +87,30 @@ Model Hybrid CNN-LSTM dibandingkan dengan baseline Machine Learning (SVM & Rando
 ```bash
 git clone [https://github.com/username-anda/nama-repo.git](https://github.com/username-anda/nama-repo.git)
 cd nama-repo
+
+
+### 3. Jalankan Notebook
+Buka file `Final_Project_Notebook.ipynb` (atau nama file `.ipynb` Anda) di Google Colab atau Jupyter Notebook. Eksekusi seluruh sel kode secara berurutan untuk:
+* Mendownload dataset.
+* Melatih model Hybrid CNN-LSTM.
+* Mengevaluasi hasil training.
+* Mengonversi model ke format TFLite.
+
+### 4. Simulasi Model TFLite
+Di bagian akhir notebook, jalankan skrip **Simulasi Data Stream** untuk melihat demonstrasi sistem mendeteksi anomali secara real-time menggunakan file `.tflite`. Simulasi ini mencakup fitur *smoothing buffer* untuk mencegah alarm palsu.
+
+---
+
+## 📂 Struktur Folder
+Berikut adalah susunan direktori proyek ini:
+
+```text
+├── dataset/                # File dataset (jika diizinkan upload, atau link sumber)
+├── models/
+│   └── iot_anomaly_detector.tflite  # Model hasil training (siap deploy ke IoT)
+├── notebooks/
+│   └── Final_Project.ipynb          # Source code utama (Training, Eval, Export)
+├── reports/
+│   └── Laporan_UAS_Final.pdf        # Dokumen laporan lengkap (PDF)
+├── images/                 # Aset gambar untuk dokumentasi/README
+└── README.md               # Dokumentasi proyek ini
